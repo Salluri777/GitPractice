@@ -1,3 +1,11 @@
 hi this is kalyan
 
+<<<<<<< HEAD
 what happened
+=======
+nothing
+
+nothing to do
+
+what
+>>>>>>> 1213c431dbbd9e989e144e5a677df35660091b02
